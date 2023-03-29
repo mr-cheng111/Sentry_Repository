@@ -1,0 +1,14 @@
+E:\Sentry_Repository\JY61\JY61\上位机\temp\MiniIMU.exe,E:\Sentry_Repository\JY61\JY61\上位机\MiniIMU.exe
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh-CN\MiniIMU.resources.dll,E:\Sentry_Repository\JY61\JY61\上位机\zh-CN\MiniIMU.resources.dll
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh-Hans\MiniIMU.resources.dll,E:\Sentry_Repository\JY61\JY61\上位机\zh-Hans\MiniIMU.resources.dll
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh\MiniIMU.resources.dll,E:\Sentry_Repository\JY61\JY61\上位机\zh\MiniIMU.resources.dll
+E:\Sentry_Repository\JY61\JY61\上位机\temp\SerialPortProtocol.dll,E:\Sentry_Repository\JY61\JY61\上位机\SerialPortProtocol.dll
+E:\Sentry_Repository\JY61\JY61\上位机\temp\xml\ProductModel.xml,E:\Sentry_Repository\JY61\JY61\上位机\xml\ProductModel.xml
+E:\Sentry_Repository\JY61\JY61\上位机\temp\ISerialPort.dll,E:\Sentry_Repository\JY61\JY61\上位机\ISerialPort.dll
+E:\Sentry_Repository\JY61\JY61\上位机\temp\ja-JP\MiniIMU.resources.dll,E:\Sentry_Repository\JY61\JY61\上位机\ja-JP\MiniIMU.resources.dll
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh\MiniIMU.resources.dll.r156,E:\Sentry_Repository\JY61\JY61\上位机\zh\MiniIMU.resources.dll.r156
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh\MiniIMU.resources.dll.r159,E:\Sentry_Repository\JY61\JY61\上位机\zh\MiniIMU.resources.dll.r159
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh-CN\MiniIMU.resources.dll.r156,E:\Sentry_Repository\JY61\JY61\上位机\zh-CN\MiniIMU.resources.dll.r156
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh-CN\MiniIMU.resources.dll.r159,E:\Sentry_Repository\JY61\JY61\上位机\zh-CN\MiniIMU.resources.dll.r159
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh-Hans\MiniIMU.resources.dll.r156,E:\Sentry_Repository\JY61\JY61\上位机\zh-Hans\MiniIMU.resources.dll.r156
+E:\Sentry_Repository\JY61\JY61\上位机\temp\zh-Hans\MiniIMU.resources.dll.r159,E:\Sentry_Repository\JY61\JY61\上位机\zh-Hans\MiniIMU.resources.dll.r159
